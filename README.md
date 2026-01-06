@@ -1,24 +1,23 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="TU_WEB_OPCIONAL">TU_NOMBRE</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="TU_WEB_OPCIONAL">Marcos</a> 👋</h1>
 </div>
 
 <img src="URL_DE_TU_BANNER">
 
-[![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)](https://github.com/TU_USUARIO)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TU_TWITTER?style=social)](https://twitter.com/TU_TWITTER)
+[![GitHub followers](https://img.shields.io/github/followers/marcrr79907?style=social)](https://github.com/marcrr79907)
 
 ## 👤 Sobre mi
 
-- 🚀 Actualmente trabajando en **[PROYECTO O EMPRESA]**
-- 🧠 Aprendiendo **[TECNOLOGÍA]**
-- 💬 Pregúntame sobre **[TUS TEMAS TOP]**
-- 📧 Cómo contactarme: **[TU EMAIL]**
+- 🚀 Actualmente trabajando en **[EDTSoft]**
+- 🧠 Aprendiendo **Kotlin Multiplatform]**
+- 💬 Pregúntame sobre **[Programación, Técnologia, Games, PC]**
+- 📧 Cómo contactarme: **[allmost79907@gmail.com]**
 
 <br>
 
 ## 🛠 Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,git,github,sqlite,figma" />
 </p>
 
 <br>
