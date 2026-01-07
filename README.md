@@ -27,9 +27,9 @@
 <td width="50%">
 <h3 align="center">Project 1</h3>
 <div align="center">
-<a href="LINK_GITHUB" target="_blank"><img src="URL_PREVIEW_IMAGEN" width="400" alt="Project 1"></a>
+<a href="https://github.com/marcrr79907/RickAndMortyApp.git" target="_blank"><img src="URL_PREVIEW_IMAGEN" width="400" alt="Project 1"></a>
 <p>
-<a href="LINK_GITHUB" target="_blank">
+<a href="https://github.com/marcrr79907/RickAndMortyApp.git" target="_blank">
 <img src="https://img.shields.io/badge/CODE-black?style=for-the-badge&logo=github">
 </a>
 <a href="LINK_DEMO" target="_blank">
