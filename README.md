@@ -58,12 +58,5 @@
 <p align="center">
 <a href="https://github.com/marcrr79907">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcrr79907&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcrr79907&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
 </p>
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
