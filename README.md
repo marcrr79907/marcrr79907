@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/CODE-black?style=for-the-badge&logo=github">
 </a>
 </p>
-<p>Brief and powerful description of what your project does and the technologies you used.</p>
+<p>Una aplicación de Android que muestra personajes de la serie Rick and Morty utilizando la API pública de Rick and Morty.</p>
 </div>
 </td>
 
