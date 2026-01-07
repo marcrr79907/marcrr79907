@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="TU_WEB_OPCIONAL">Marcos</a> 👋</h1>
 </div>
 
-<img src="URL_DE_TU_BANNER">
+<img src="https://github.com/marcrr79907/marcrr79907/blob/main/baner_github1.png?raw=true">
 
 [![GitHub followers](https://img.shields.io/github/followers/marcrr79907?style=social)](https://github.com/marcrr79907)
 
