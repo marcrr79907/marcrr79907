@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-- 🧠 Skills: **Kotlin Multiplatform (KMP)**
+- 🧠 Skills: **Kotlin, JetPack Compose, Kotlin Multiplatform (KMP)**
 - 💬 Ask me about: **Programming, Tech, Gaming, and PC Hardware**
 - 📧 Reach out to me: **[allmost79907@gmail.com]**
 
@@ -16,7 +16,7 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,git,github,sqlite,figma" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,gcp,gradle,git,github,md,powershell,sqlite,figma" />
 </p>
 
 <br>
