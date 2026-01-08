@@ -40,13 +40,13 @@
 <td width="50%">
 <h3 align="center">Project 2</h3>
 <div align="center">
-<a href="LINK_GITHUB" target="_blank"><img src="URL_PREVIEW_IMAGEN" width="400" alt="Project 2"></a>
+<a href="https://github.com/marcrr79907/PaResolverMarket.git" target="_blank"><img src="URL_PREVIEW_IMAGEN" width="400" alt="Project 2"></a>
 <p>
-<a href="LINK_GITHUB" target="_blank">
+<a href="https://github.com/marcrr79907/PaResolverMarket.git" target="_blank">
 <img src="https://img.shields.io/badge/CODE-black?style=for-the-badge&logo=github">
 </a>
 </p>
-<p>Description of your second important project. Focus on the problem it solves.</p>
+<p>PaResolver es una aplicación de comercio electrónico moderna y eficiente diseñada específicamente para el mercado cubano. Construida con Kotlin Multiplatform (KMP) y Compose Multiplatform, ofrece una experiencia de usuario nativa y fluida en Android.</p>
 </div>
 </td>
 </tr>
